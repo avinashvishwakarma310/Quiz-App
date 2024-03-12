@@ -1,3 +1,6 @@
+# livepreview:
+https://avinashvishwakarma310.github.io/Quiz-App/
+
 # Quiz App
 
 This is a simple Quiz App implemented using HTML, CSS, and JavaScript.
