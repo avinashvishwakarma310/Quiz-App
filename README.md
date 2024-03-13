@@ -1,4 +1,4 @@
-# livepreview:
+# Livepreview:
 https://avinashvishwakarma310.github.io/Quiz-App/
 
 # Quiz App
